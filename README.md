@@ -1,7 +1,7 @@
  🖼️ Gallery Display Website
 
-A clean, responsive, and modern gallery display website designed to showcase images beautifully. Built using HTML and CSS, this project features interactive hover effects that enhance the user experience.
-
+A clean and modern gallery display website designed to showcase images beautifully. Built using HTML and CSS, this project features interactive hover effects that enhance the user experience.
+note:(still working on responsiveness)
 
 
 📸 Features
