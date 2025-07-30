@@ -11,7 +11,7 @@ note:(still working on responsiveness)
 - 📱 Mobile-friendly design
 - 🎨 Clean and minimalist UI
 - 💡 Smooth transitions and visual feedback on hover
-
+live preview: https://israel-ei.github.io/Gallary-display/
 
 
  🛠️ Technologies Used
